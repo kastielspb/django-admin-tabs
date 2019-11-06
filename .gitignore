@@ -1,0 +1,10 @@
+
+admin_tabs/__pycache__/
+
+admin_tabs/migrations/__pycache__/
+
+example/app/__pycache__/
+
+example/some_app/__pycache__/
+
+example/some_app/migrations/__pycache__/

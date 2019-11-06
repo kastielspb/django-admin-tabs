@@ -1,0 +1,16 @@
+<html lang="en">
+  <head>
+    {{ get_script_pattern(request, 'head', 'top') }}
+    <meta charset="utf-8">
+    <title>Index page</title>
+    {{ get_script_pattern(request, 'head', 'bottom') }}
+  </head>
+
+  <body>
+    {{ get_script_pattern(request, 'body', 'top') }}
+    <div class="container">
+      <h2>Some content of index page!<h2>
+    </div>
+    {{ get_script_pattern(request, 'body', 'bottom') }}
+  </body>
+</html>
