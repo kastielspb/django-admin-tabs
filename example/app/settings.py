@@ -32,7 +32,6 @@ INSTALLED_APPS = [
 
     'rosetta',
     'django_jinja',
-    'adminsortable2',
 
     'django.contrib.admin',
     'django.contrib.auth',
